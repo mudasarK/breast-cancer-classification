@@ -6,14 +6,14 @@ Inasive ductal carcinoma (IDC) is - with ~ 80 % of cases - one of the most commo
 ### What is meant by invasive ductal carcinoma?
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lobules_and_ducts_of_the_breast.jpg" width="240" height="240">
+<br/>
 
 This illustration created Mikael Häggström shows the anatomy of a healthy breast. One can see the lobules, the glands that can produce milk which flews through the milk ducts. Ductal carcinoma starts to develop in the ducts whereas lobular carcinoma has its origin in the lobules. Invasive carcinoma is able to leave its initial tissue compartment and can form metastases.  
 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 
