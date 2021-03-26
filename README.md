@@ -26,6 +26,6 @@ Please try to run [data_visualization!](data_visualization.ipynb) first to get b
 
 <br/>
 
-!Many models are added inside [customModel.py](model/customModel.py). Only tested onces so far are MobileNetV2 and custom model.
-!MobileNetV2 first is transferd learnt using imagenet weights, and later finetuned. (please check the accuracy and loss plotted for  [transfer learnt](mobilenet_frozen_network.png) and for [fine tunned](mobilenet_unfrozen_network.png) )
-!MobileNetV2 trained model weights are already uploaded.
+- Many models are added inside [customModel.py](model/customModel.py). Only tested onces so far are MobileNetV2 and custom model.
+- MobileNetV2 first is transferd learnt using imagenet weights, and later finetuned. (please check the accuracy and loss plotted for  [transfer learnt](mobilenet_frozen_network.png) and for [fine tunned](mobilenet_unfrozen_network.png) )
+- MobileNetV2 trained model weights are already uploaded.
