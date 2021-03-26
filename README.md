@@ -25,3 +25,5 @@ Please try to run [data_visualization!](data_visualization.ipynb) first to get b
 #### Please run [build_dataset](build_dataset.py) to prepare data before training.
 
 <br/>
+
+#### Many models are added inside [model.py](model.py). Only tested onces so far are MobileNetV2 and custom model.
